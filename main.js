@@ -44,3 +44,7 @@ endShape(CLOSE);
    
 
 }  
+
+function take_snapshot(){    
+  save('myFilterImage.png');
+}
